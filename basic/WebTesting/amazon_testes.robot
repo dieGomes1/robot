@@ -13,3 +13,5 @@ Caso de teste 02 - Pesquisa de um Produto
     Digitar o nome de produto "Xbox Series S" no campo de pesquisa
     Clicar no botão de pesquisa
     Validar que na pesquisa é exibido o produto pesquisado
+
+    teste
